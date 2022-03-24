@@ -25,6 +25,7 @@
 			<td>
 				<input type="radio" name="input_jeniskelamin" value="Laki-laki"<?php echo set_radio('jeniskelamin', 'Laki-laki'); ?>> Laki-laki
 				<input type="radio" name="input_jeniskelamin" value="Perempuan"<?php echo set_radio('jeniskelamin', 'Perempuan'); ?>> Perempuan
+				<input type="radio" name="input_jeniskelamin" value="setengah laki-laki"<?php echo set_radio('jeniskelamin', 'Setengah laki-laki'); ?>> Setengah laki laki
 				
 			</td>
 		</tr>
